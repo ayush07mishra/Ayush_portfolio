@@ -13,4 +13,4 @@ The goal of this portfolio is simple: present my work in a clean, structured way
 
 ## Live Link
 
-[View Portfolio]([https://your-live-link-here.com](https://ayush07mishra.github.io/Ayush_portfolio/))
+[View Portfolio]([https://ayush07mishra.github.io/Ayush_portfolio/])
