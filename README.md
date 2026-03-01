@@ -12,5 +12,4 @@ The goal of this portfolio is simple: present my work in a clean, structured way
 - Organized code structure for easy updates  
 
 ## Live Link
-
-[View Portfolio]([https://ayush07mishra.github.io/Ayush_portfolio/])
+https://ayush07mishra.github.io/Ayush_portfolio/
